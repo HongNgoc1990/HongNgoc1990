@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HongNgoc1990
 - 👀 I’m interested in music and Crypto
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on
+- 🌱 I’m currently learning tech
+- 💞️ I’m looking to collaborate on tech
 - 📫 How to reach me : rubi.hongngoc139@gmail.com
 
 <!---
